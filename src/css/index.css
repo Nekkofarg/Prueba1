@@ -1,0 +1,35 @@
+body{
+    background: grey;
+    margin: auto;
+}
+.Bloque{
+    width: 600px;
+    height: 300px;
+    background: white;
+    padding: 10px;
+    margin-top: 50px;
+    border-radius: 2%;
+    border: 2px solid black;
+    box-shadow: 10% 10% 20% black inset;
+    margin: auto;
+    margin-top: 10px;
+}
+h1{
+    font-size: 30px;
+}
+img{
+    border: 2px solid black;
+    border-radius: 2%;
+}
+
+.base{
+    display: flex;
+    margin: 3px;
+}
+.parrafo{
+    padding: 10px;
+    margin: 10px;
+}
+.checkbox{
+    margin-top: 20px;
+}
